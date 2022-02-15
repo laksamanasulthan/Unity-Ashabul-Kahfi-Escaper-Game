@@ -1,0 +1,2 @@
+# Unity-Ashabul-Kahfi-Escaper---Game
+Game 'Ahsabul Kahfi Escaper' mengadaptasi bentuk 3D dan Survival. Desain karakter perilaku yang digambarkan dengan diagram Finite-State Machine, dan desain karakter visual yang dibentuk dengan software eksternal engine dalam game. Player akan berperan sebagai Ahsabul Kahfi yang membawa diri, NPC Enemy yaitu kaum kafir yang akan melakukan pengejaran dan pencarian terhadap pemain, serta NPC Companion yaitu kitmir/anjing yang menemani player dan memberikan tanda ketika dekat dengan Musuh
